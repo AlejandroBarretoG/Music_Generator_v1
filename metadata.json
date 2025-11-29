@@ -1,0 +1,7 @@
+{
+  "name": "Firebase Connection Tester v22_a",
+  "description": "Una aplicación React para probar la inicialización y conexión con Firebase usando la configuración proporcionada.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
